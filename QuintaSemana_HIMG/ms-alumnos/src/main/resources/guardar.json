@@ -1,0 +1,9 @@
+{
+        "alumnoId": 27,
+        "nombre": "MARIA GUADALUPE",
+        "fechaNac": "2004-12-12T00:00:00",
+        "genero": "FEMENINO",
+        "grado": "2ER SEMESTRE",
+        "ciudad": "VERACRUZ",
+        "status": 1
+    }
